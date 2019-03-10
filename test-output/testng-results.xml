@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16099" started-at="2019-03-09T12:51:30Z" finished-at="2019-03-09T12:51:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16099" started-at="2019-03-09T12:51:30Z" finished-at="2019-03-09T12:51:46Z">
+      <class name="com.rest.gpapi.getAccount">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.rest.gpapi.getAccount@77caeb3e]" name="setUp" is-config="true" duration-ms="759" started-at="2019-03-09T18:21:31Z" finished-at="2019-03-09T18:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getAccountTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.rest.gpapi.getAccount@77caeb3e]" name="getAccountTest" duration-ms="5814" started-at="2019-03-09T18:21:32Z" data-provider="getData" finished-at="2019-03-09T18:21:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[getaccount]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[madmadmonkeyhq]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[sek]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2ff34945-e6b0-4b30-9f3e-2fcf75e2d994]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[desktop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAccountTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.rest.gpapi.getAccount@77caeb3e]" name="setUp" is-config="true" duration-ms="1" started-at="2019-03-09T18:21:38Z" finished-at="2019-03-09T18:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getAccountTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.rest.gpapi.getAccount@77caeb3e]" name="getAccountTest" duration-ms="3002" started-at="2019-03-09T18:21:38Z" data-provider="getData" finished-at="2019-03-09T18:21:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[getaccount]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[madmadmonkeyhq]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[sek]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2ff34945-e6b0-4b30-9f3e-2fcf75e2d994]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[desktop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAccountTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.rest.gpapi.getAccount@77caeb3e]" name="setUp" is-config="true" duration-ms="6" started-at="2019-03-09T18:21:41Z" finished-at="2019-03-09T18:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getAccountTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.rest.gpapi.getAccount@77caeb3e]" name="getAccountTest" duration-ms="2460" started-at="2019-03-09T18:21:41Z" data-provider="getData" finished-at="2019-03-09T18:21:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[getaccount]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[madmadmonkeyhq]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[sek]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2ff34945-e6b0-4b30-9f3e-2fcf75e2d994]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[desktop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAccountTest -->
+        <test-method status="PASS" signature="getAccountTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.rest.gpapi.getAccount@77caeb3e]" name="getAccountTest" duration-ms="2212" started-at="2019-03-09T18:21:44Z" data-provider="getData" finished-at="2019-03-09T18:21:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[getaccount]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[100.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[madmadmonkeyhq]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[sek]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2ff34945-e6b0-4b30-9f3e-2fcf75e2d994]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[desktop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAccountTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.rest.gpapi.getAccount@77caeb3e]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-09T18:21:44Z" finished-at="2019-03-09T18:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.rest.gpapi.getAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
